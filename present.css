@@ -1,24 +1,20 @@
 
-.red{
+.red {
     color: darkgoldenrod;
     border:2px;
     font-family: Georgia, 'Times New Roman', Times, serif;
    font-style: italic;
 
 }
+
 p{
     color: black;
 }
 body{
     background-color: bisque;
-    /* background-image: ('../HTML/images/cupcake.jpg'); */
-    background-image: url(../images/bluesky.jpg);
-    /* background-size: cover;
-    background-position: 100%; */
-    
- /* this is the heading colour  */
 }
-#headingcolor{
+
+#headingcolor {
     color: brown;
 }
 h3{
